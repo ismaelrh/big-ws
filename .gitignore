@@ -14,6 +14,7 @@ hs_err_pid*
 /build/
 /.settings/
 /.gradle/
+#File with sensistive information
 application.properties
 /.classpath
 /.DS_Store
